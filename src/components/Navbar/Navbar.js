@@ -5,7 +5,7 @@ import { Icon } from '@iconify/react';
 const Navbar = () => {
   return (
     <>
-      <nav class="navbar">
+      <nav class="navbar position-relative">
         <div class="navbar-container container">
           <input type="checkbox" name="" id=""/>
             <div class="hamburger-lines">
