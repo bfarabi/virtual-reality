@@ -1,5 +1,5 @@
 import React from 'react';
-import Slider from 'react-slick';
+import Slider from '../Slider/Slider';
 import About from '../About/About';
 import Contact from '../contact/Contact';
 import Footer from '../footer/Footer';
